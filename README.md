@@ -3,6 +3,13 @@
 This repository contains **Python programs, practice notebooks, and mini-projects** for learning Python programming using **Google Colab**.
 
 ---
+## 🚀 How to Use
+
+1. Open a notebook in **Google Colab** by clicking the badge below:
+2. Run the cells one by one (Shift + Enter).  
+3. Modify the code and practice interactively.  
+
+---
 ## 📒 Notebooks
 
 - Print Examples  
@@ -25,13 +32,7 @@ This repository contains **Python programs, practice notebooks, and mini-project
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
   https://colab.research.google.com/github/anupkunduabc/PROBLEM-SOLVING-AND-PYTHON-PROGRAMMING/blob/main/string_operations.ipynb)
 
-## 🚀 How to Use
 
-1. Open a notebook in **Google Colab** by clicking the badge below:
-2. Run the cells one by one (Shift + Enter).  
-3. Modify the code and practice interactively.  
-
----
 
 ## 📌 Topics Covered
 - Python Basics: Variables, Operators, Input/Output  
