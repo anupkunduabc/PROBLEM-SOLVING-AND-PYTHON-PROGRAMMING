@@ -3,6 +3,27 @@
 This repository contains **Python programs, practice notebooks, and mini-projects** for learning Python programming using **Google Colab**.
 
 ---
+## 📒 Notebooks
+
+- Print Examples  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/anupkunduabc/PROBLEM-SOLVING-AND-PYTHON-PROGRAMMING/blob/main/Print_Examples.ipynb)
+
+- Integer Operations  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/anupkunduabc/PROBLEM-SOLVING-AND-PYTHON-PROGRAMMING/blob/main/integer_operations.ipynb)
+
+- Float Operations  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/anupkunduabc/PROBLEM-SOLVING-AND-PYTHON-PROGRAMMING/blob/main/float_operations.ipynb)
+
+- Relational Operations  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/anupkunduabc/PROBLEM-SOLVING-AND-PYTHON-PROGRAMMING/blob/main/relational_operations.ipynb)
+
+- String Operations  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/anupkunduabc/PROBLEM-SOLVING-AND-PYTHON-PROGRAMMING/blob/main/string_operations.ipynb)
 
 ## 🚀 How to Use
 
