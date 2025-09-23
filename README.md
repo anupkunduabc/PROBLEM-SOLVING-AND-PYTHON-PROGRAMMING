@@ -28,10 +28,6 @@ This repository contains **Python programs, practice notebooks, and mini-project
 ## 🚀 How to Use
 
 1. Open a notebook in **Google Colab** by clicking the badge below:
-
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anupkunduabc/repository-name/blob/main/integer_operations.ipynb)
-
-
 2. Run the cells one by one (Shift + Enter).  
 3. Modify the code and practice interactively.  
 
