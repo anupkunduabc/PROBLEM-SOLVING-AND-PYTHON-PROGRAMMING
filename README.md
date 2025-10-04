@@ -44,6 +44,9 @@ This repository contains **Python programs, practice notebooks, and mini-project
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
   https://colab.research.google.com/github/anupkunduabc/PROBLEM-SOLVING-AND-PYTHON-PROGRAMMING/blob/main/Pattern_Matching.ipynb)
 
+  - Iteration: while, for, break, continue, pass 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/anupkunduabc/PROBLEM-SOLVING-AND-PYTHON-PROGRAMMING/blob/main/ITERATION_STATEMENTS.ipynb)
+
 ## 📌 Topics Covered
 - Python Basics: Variables, Operators, Input/Output  
 - Conditional Statements (`if`, `if-else`, `if-elif-else`)  
