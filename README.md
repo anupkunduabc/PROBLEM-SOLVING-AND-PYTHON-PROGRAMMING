@@ -36,15 +36,15 @@ This repository contains **Python programs, practice notebooks, and mini-project
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
   https://colab.research.google.com/github/anupkunduabc/PROBLEM-SOLVING-AND-PYTHON-PROGRAMMING/blob/main/CONDITIONAL.ipynb)
 
-  - Conditional Statements_partA (`if`, `if-else`, `if-elif-else`)  
+- Conditional Statements_partA (`if`, `if-else`, `if-elif-else`)  
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
   https://colab.research.google.com/github/anupkunduabc/PROBLEM-SOLVING-AND-PYTHON-PROGRAMMING/blob/main/Conditional_partb.ipynb)
 
-  - Conditional Statements_Pattern Matching (`if`, `if-else`, `if-elif-else`)  
+- Conditional Statements_Pattern Matching (`if`, `if-else`, `if-elif-else`)  
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
   https://colab.research.google.com/github/anupkunduabc/PROBLEM-SOLVING-AND-PYTHON-PROGRAMMING/blob/main/Pattern_Matching.ipynb)
 
-  - Iteration: while, for, break, continue, pass 
+- Iteration: while, for, break, continue, pass 
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
     https://github.com/anupkunduabc/PROBLEM-SOLVING-AND-PYTHON-PROGRAMMING/blob/main/ITERATION_STATEMENTS.ipynb)
 
