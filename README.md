@@ -48,7 +48,9 @@ This repository contains **Python programs, practice notebooks, and mini-project
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
   https://colab.research.google.com/github/anupkunduabc/PROBLEM-SOLVING-AND-PYTHON-PROGRAMMING/blob/main/ITERATION_STATEMENTS.ipynb)
 
-
+- `Functions` (`Local & Global Scope`,`Methods of Passing Arguments`)  
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/anupkunduabc/PROBLEM-SOLVING-AND-PYTHON-PROGRAMMING/blob/main/Functions_in_Python.ipynb)
 
 ## 📌 Topics Covered
 - Python Basics: Variables, Operators, Input/Output  
