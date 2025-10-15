@@ -52,6 +52,10 @@ This repository contains **Python programs, practice notebooks, and mini-project
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
   https://colab.research.google.com/github/anupkunduabc/PROBLEM-SOLVING-AND-PYTHON-PROGRAMMING/blob/main/Functions_in_Python.ipynb)
 
+  - `Functions` (`recursion`,`recursive solutions: factorial, Fibonacci, reverse number, palindrome.`,`lambda functions`)  
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/anupkunduabc/PROBLEM-SOLVING-AND-PYTHON-PROGRAMMING/blob/main/Recursion_Lambda_Class11.ipynb)
+
 ## 📌 Topics Covered
 - Python Basics: Variables, Operators, Input/Output  
 - Conditional Statements (`if`, `if-else`, `if-elif-else`)  
