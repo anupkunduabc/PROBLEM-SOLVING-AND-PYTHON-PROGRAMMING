@@ -56,6 +56,12 @@ This repository contains **Python programs, practice notebooks, and mini-project
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
   https://colab.research.google.com/github/anupkunduabc/PROBLEM-SOLVING-AND-PYTHON-PROGRAMMING/blob/main/Recursion_Lambda_Class11.ipynb)
 
+- `Lambda for mathematics` (`Lambda for strings`,`Modular problem solving: String indexing.`,`String slicing`)  
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/anupkunduabc/PROBLEM-SOLVING-AND-PYTHON-PROGRAMMING/blob/main/Python_Class12_Lambda_Strings.ipynb)
+
+  Python_Class12_Lambda_Strings.ipynb
+
 ## 📌 Topics Covered
 - Python Basics: Variables, Operators, Input/Output  
 - Conditional Statements (`if`, `if-else`, `if-elif-else`)  
